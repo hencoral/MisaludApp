@@ -1,2 +1,2 @@
 # MisaludApp
-Sistema de georreferenciación para progrmas de salud
+Sistema de georreferenciación para programas de salud
